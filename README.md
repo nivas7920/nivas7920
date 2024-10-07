@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Swapnil Ingale [swan019]</h1>
+<h1 align="center">Hi 👋, I'm Nivas Bidave [nivas7920]</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="100vw"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <!-- <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swan019&label=Profile%20views&color=0e75b6&style=flat" alt="swan019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nivas7920&label=Profile%20views&color=0e75b6&style=flat" alt="nivas7920" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivas7920" alt="nivas7920" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swan019" alt="swan019" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iamswapnil_1" target="blank"><img src="https://img.shields.io/twitter/follow/iamswapnil_1?logo=twitter&style=for-the-badge" alt="iamswapnil_1" /></a> </p>
+<p align="left"> <a href="https://x.com/BidaveNivas" target="blank"><img src="https://img.shields.io/twitter/follow/BidaveNivas?logo=twitter&style=for-the-badge" alt="BidaveNivas" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/swan019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="swan019" height="30" width="40" /></a>
-<a href="https://twitter.com/iamswapnil_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamswapnil_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swapnili019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnili019" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swapnili019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swapnili019" height="30" width="40" /></a>
-<a href="https://instagram.com/iamswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamswapnil" height="30" width="40" /></a>
-<a href="https://medium.com/@iamswapnil_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamswapnil_1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swapnili019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swapnili019" height="30" width="40" /></a>
+
+<a href="https://x.com/BidaveNivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BidaveNivas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nivas-bidave-30387623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nivas7920" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nivas_bidave_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nivasbidave" height="30" width="40" /></a>
+<a href="https://medium.com/@nivas7920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nivasbidave" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nivas_bidave_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nivas7920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
